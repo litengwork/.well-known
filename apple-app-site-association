@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D9F3Q3SJ67.jp.co.example",
+        "paths": ["/"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["D9F3Q3SJ67.jp.co.example"]
+  }
+}
